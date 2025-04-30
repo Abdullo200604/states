@@ -1,0 +1,1 @@
+TOKEN = "seni tokenng qo'yiladi"
